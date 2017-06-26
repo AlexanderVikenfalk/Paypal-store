@@ -1,6 +1,6 @@
 
 #### Author: Alexander Vikenfalk
-#### Course: Data management
+#### Course: Data management with XML and API development
 #### Program: Backend Development with C# (BED15)
 #### School: Lernia YH
 
