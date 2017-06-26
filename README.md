@@ -23,7 +23,7 @@ Since focus was on backend and the paypal integation, I havent put much effort i
 
 [LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
-#### Screenshot from app ####
+#### Screenshots from app ####
 ![Screenshot]([Imgur](http://i.imgur.com/bNrOO7o.png))
 ![Screenshot]([Imgur]((http://i.imgur.com/S82XIhF.png))
 
